@@ -1,0 +1,11 @@
+{
+    "title": "Getting Started",
+    "details": {
+        "steps": [
+	    {
+		"title": "Overview of the Workshop Images",
+		"text": "01-overview-of-the-workshop-images.md"
+	    }
+        ]
+    }
+}
